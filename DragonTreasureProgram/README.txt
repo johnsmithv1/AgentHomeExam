@@ -1,0 +1,7 @@
+Welcome to Dragon Treasure Version 2
+
+To run the programm call java se.ltu.softeng.dragon.Main inside /bin directory
+
+To run test cases call 
+java -cp ../libs/junit-4.12.jar:../libs/hamcrest-core-1.3.jar:$CLASSPATH org.junit.runner.JUnitCore se.ltu.softeng.dragon.testing.RoomTesting inside /bin directory
+
